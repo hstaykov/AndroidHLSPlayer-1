@@ -47,7 +47,7 @@ public class VideoActivity extends Activity implements SeekBar.OnSeekBarChangeLi
 
 	String SrcPath = "http://192.168.1.152/testhls/pachinko/C02S01N00000004-0400.m3u8"; // pachinko
 																						// ok
-																						// for
+	// hami																					// for
 																						// local
 
 	private static final String TAG = "VideoViewDemo";
